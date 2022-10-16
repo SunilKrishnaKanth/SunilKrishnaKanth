@@ -30,6 +30,12 @@ Languages and Tools:
     <a href="https://learn.microsoft.com/en-us/windows/uwp/develop/" target="_blank" rel="noreferrer">
         <img src="https://www.turtlejet.net/wp-content/uploads/2017/06/08124712-photo-logo-windows.jpg" alt="Windows" width="60" height="40" />
     </a>
+     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://www.pngitem.com/pimgs/m/514-5142665_react-native-transparent-react-native-logo-png-png.png" alt="ReactNative" width="80" height="40" />
+    </a>
+    <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank" rel="noreferrer">
+        <img src="https://i0.wp.com/www.pshul.com/wp-content/uploads/2018/01/Xamarin-Padded2.png" alt="Xamarin" width="80" height="40" />
+    </a>  
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
     </a>
