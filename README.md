@@ -27,6 +27,9 @@ Languages and Tools:
     <a href="https://developer.apple.com/tutorials/app-dev-training" target="_blank" rel="noreferrer">
         <img src="https://1000logos.net/wp-content/uploads/2017/02/iOS-Logo-2013-1024x474.jpg" alt="iOS" width="60" height="40" />
     </a>
+    <a href="https://learn.microsoft.com/en-us/windows/uwp/develop/" target="_blank" rel="noreferrer">
+        <img src="https://www.turtlejet.net/wp-content/uploads/2017/06/08124712-photo-logo-windows.jpg" alt="Windows" width="60" height="40" />
+    </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
     </a>
